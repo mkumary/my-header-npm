@@ -1,0 +1,19 @@
+{
+  "name": "test-header",
+  "version": "1.0.0",
+  "description": "A npm package to create create header",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkumary/my-header-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkumary/my-header-npm/issues"
+  },
+  "homepage": "https://github.com/mkumary/my-header-npm#readme"
+}
